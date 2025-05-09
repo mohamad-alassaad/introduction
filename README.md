@@ -63,6 +63,8 @@ Feel free to reach out for AI collaboration or consulting projects.
 
 ---
 
+<!-- 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats"/>
 </p>
+-->
